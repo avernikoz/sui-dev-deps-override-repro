@@ -15,6 +15,7 @@ main_package = "0x0"
 # or forked dependencies pointing to the different git repositories, 
 # uncommenting them leads to the build failure.
 # Same for the "override" flag (whether it is set to true or non-exists).
+
 # Pyth = { git = "https://github.com/pyth-network/pyth-crosschain.git", subdir = "target_chains/sui/contracts", rev = "sui-contract-mainnet" }
 # deepbook = { git = "https://github.com/MystenLabs/deepbookv3.git", subdir = "packages/deepbook", rev = "v3.0.0" }
 
